@@ -1,0 +1,95 @@
+
+.navbar li a{
+	color: #FEB3E4 !important;
+	font-family: 'Outfit', sans-serif;
+}
+
+.texto-primario{
+	color: #FEB3E4 !important;
+	font-family: 'Outfit', sans-serif;
+}
+
+.btn-meubotao{
+	color: white !important;
+	background-color: #FEB3E4 !important;
+	font-family: 'Outfit', sans-serif;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+#minhalogo {
+	width:120px;
+}
+
+.produtoCarrosel {
+	width: 400px;
+}
+
+.margem-superior-25{
+    margin-top: 25%;
+}
+
+#divpatrocinador a{
+	text-decoration :none;
+}
+
+#divpatrocinador img{
+	width: 120px;
+}
+
+#midias a{
+	text-decoration :none;
+	color: #C9D955;
+	padding: 5px;
+}
+
+#midias i{
+	font-size: 2rem;
+}
+
+.margem-superior-15{
+    margin-top: 15%;
+}
+
+.botao-voltar-index{
+	position:fixed;
+	bottom:15px;
+	right:15px;
+}
+
+.imagem-cartao{
+	width: 45px;
+	padding-right: 10px;
+}
+
+.formulario-login{
+	box-shadow: 5px 10px 8px #e1d8de;
+    padding: 15px;
+    border: 2px solid #c9d955;
+    border-radius: 25px;
+}
+
+
+p{
+text-align: left;
+font-size: 20px;
+line-height: 1.9;
+}
+
+.card-text p{
+font-size:12px;
+
+}
+
+footer{
+	background-color: #C9D955 !important;
+}
+
+.error{
+	color: red;
+}
